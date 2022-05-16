@@ -17,6 +17,7 @@ IDE为Qt Creator 4.3.1 (Community)
 
 #### 使用说明
 在项目文件下的release文件夹里有可执行文件 Draw_Project.exe
+Draw_Project.pro是qt的项目文件
 
 1.  xxxx
 2.  xxxx
