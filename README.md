@@ -5,6 +5,8 @@
 
 #### 软件架构
 第一个项目基于qt graphics view框架的画图小程序
+IDE为Qt Creator 4.3.1 (Community)
+编译器为mingw
 
 
 #### 安装教程
@@ -14,7 +16,8 @@
 3.  xxxx
 
 #### 使用说明
-在项目文件下的release文件夹里有可执行文件
+在项目文件下的release文件夹里有可执行文件 Draw_Project.exe
+
 1.  xxxx
 2.  xxxx
 3.  xxxx
